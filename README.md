@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my Master's thesis on agent-based and mathematical modeling of hematopoietic stem cells. 
 - 🌱 I’m currently learning how to be proficient in genomics.
-- 👯 I’m looking to collaborate with people who want to improve the biomedical and biological field.
+- 👯 I’m looking to collaborate with people who want to investigate different biomedical and biological fields.
 - 📫 How to reach me: amadeoalfaroquinde@gmail.com
 
 
