@@ -3,9 +3,9 @@
 
 **CarlosAmadeo7/CarlosAmadeo7** is a ✨ _special_ ✨ repository .
 
-- 🔭 I’m working on my Master's thesis on agent-based and mathematical modeling of hematopoietic stem cells. 
-- 🌱 I’m currently learning proficiency in omics.
-- 👯 I’m looking to meet and collaborate with people who want to investigate biomedical and biological fields.
+- 🔭 Currently I’m working on my Master's degree on agent-based and mathematical modeling of hematopoietic stem cell dynamics. 
+- 🌱 I’m interested in omics, mathematical modeling, immunology, and more. 
+- 👯 I would love to meet, collaborate, and keep learning about different biomedical and biological fields.
 - 📫 How to reach me: amadeoalfaroquinde@gmail.com
 
 
