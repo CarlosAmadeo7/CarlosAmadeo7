@@ -1,5 +1,5 @@
 ### Hello there 👋  
-
+[Google Scholar](https://scholar.google.com/citations?user=5SsaCjsAAAAJ&hl=e)
 
 **CarlosAmadeo7/CarlosAmadeo7** is a ✨ _special_ ✨ repository .
 
