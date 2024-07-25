@@ -1,7 +1,7 @@
 ### Hello there 👋  I am Carlos Amadeo
 [Google Scholar](https://scholar.google.com/citations?user=5SsaCjsAAAAJ&hl=e)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosAmadeo7)](https://github.com/CarlosAmadeo7/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosAmadeo7&show_icons=true)](https://github.com/CarlosAmadeo7/github-readme-stats&show_icons=true)
 
 
 - 🔭 I am  currently working on my Master's degree using agent-based and mathematical modeling to study hematopoietic stem cell dynamics. 
