@@ -3,7 +3,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosAmadeo7&show_icons=true)](https://github.com/CarlosAmadeo7/github-readme-stats&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAmadeo7)](https://github.com/CarlosAmadeo7/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAmadeo7&layout=compact)](https://github.com/CarlosAmadeo7/github-readme-stats&layout=compact)
 
 
 - 🔭 I am  currently working on my Master's degree using agent-based and mathematical modeling to study hematopoietic stem cell dynamics. 
