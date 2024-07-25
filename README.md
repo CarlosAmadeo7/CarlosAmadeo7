@@ -6,7 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAmadeo7&layout=compact&theme=radical)](https://github.com/CarlosAmadeo7/github-readme-stats&layout=compact&theme=radical)
 
 
-- 🔭 I am  currently working on my Master's degree using agent-based and mathematical modeling to study hematopoietic stem cell dynamics. 
+- 🔭 I am currently working on my Master's degree using agent-based and mathematical modeling to study hematopoietic stem cell dynamics. 
 - 🌱 My research interests span the fields of omics, mathematical modeling, immunology, and more. 
 - 👯 I would love to meet, collaborate, and keep learning about different biomedical and biological fields.
 - 📫 How to reach me: amadeoalfaroquinde@gmail.com
