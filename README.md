@@ -1,7 +1,7 @@
 ### Hello there 👋  I am Carlos Amadeo
 [Google Scholar](https://scholar.google.com/citations?user=5SsaCjsAAAAJ&hl=e)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosAmadeo7&show_icons=true&theme=radical)](https://github.com/CarlosAmadeo7/github-readme-stats&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosAmadeo7&show_icons=true&theme=dark)](https://github.com/CarlosAmadeo7/github-readme-stats&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAmadeo7&layout=compact&theme=radical)](https://github.com/CarlosAmadeo7/github-readme-stats&layout=compact&theme=radical)
 
