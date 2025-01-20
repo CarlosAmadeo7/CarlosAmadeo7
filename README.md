@@ -5,7 +5,7 @@
 
 
 
-🔭 I have an M.S. in Molecular and Computational Biology and I use computational and mathematical modeling to study hematopoietic stem cell dynamics. 
+- 🔭 I have an M.S. in Molecular and Computational Biology, and I use computational and mathematical modeling to study hematopoietic stem cell dynamics. 
 - 🌱 My research interests span the fields of mathematical modeling, single-cell RNA seq, bulk-RNA seq, omics in general, immunology, and more. 
 - 👯 I would love to meet, collaborate, and keep learning about different biomedical and biological fields.
 - 📫 How to reach me: carlosamadeo0708@gmail.com
